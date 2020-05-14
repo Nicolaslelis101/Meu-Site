@@ -1,0 +1,30 @@
+body{
+    background-image:url(https://i.kym-cdn.com/photos/images/original/001/641/059/765.gif);
+    background-size: 1900px 1000px; 
+    font-family:arial;
+    color:white
+  }
+  .menu{
+    background-color:#ff9900;
+    ;
+  }
+  
+  .menu ul{
+    display:flex;
+    justify-content:space-around;
+  }
+  
+  .menu li{
+    list-style:none;
+  }  
+  a{
+    color:#000000;
+    text-decoration:none;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align:center;
+    color:#000000;
+  }
+  
